@@ -56,6 +56,7 @@ public class Series {
         int b = sc.nextInt();
         System.out.println("enther the power");
         int c = sc.nextInt();
-        
+
+    }
     }
 }
